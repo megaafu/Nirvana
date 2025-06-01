@@ -23,7 +23,7 @@ class _LobbyState extends State<Lobby> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Welcome",
+                "Bem Vindo",
                 style: TextStyle(
                   fontSize: 44.sp,
                   fontWeight: FontWeight.w700,
